@@ -4,6 +4,8 @@
 
 **Rush Lane is a 3D browser racing game. Six cars, one busy road, three minutes.**
 
+[**Play now: rush-lane.vercel.app**](https://rush-lane.vercel.app/)
+
 ![Three.js](https://img.shields.io/badge/Three.js-r128-black?logo=three.js)
 ![Single file](https://img.shields.io/badge/single%20file-HTML%2FCSS%2FJS-f4c430)
 ![No build](https://img.shields.io/badge/build-none-2bb673)
@@ -30,6 +32,10 @@ Race five rivals through live traffic and finish as high up the field as you can
 - Pause, restart and results screen with distance, crashes and top speed
 
 ## Quick start
+
+**Play online:** [https://rush-lane.vercel.app/](https://rush-lane.vercel.app/)
+
+Or run locally:
 
 ```sh
 git clone git@github.com:symfonyaman/rush-lane.git && cd rush-lane
